@@ -1,0 +1,14 @@
+.btn-start {
+    background-color: var(--Secondary-1);
+    border: none;
+    color: var(--White);
+}
+
+.btn-start:hover {
+    background-color: var(--Secondary-2) !important;
+    box-shadow: none;
+}
+
+.btn-start:disabled {
+    background-color: var(--btn-disabled);
+}
